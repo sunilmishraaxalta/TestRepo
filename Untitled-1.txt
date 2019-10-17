@@ -1,0 +1,2 @@
+sfdx plugins --core
+sfdx pluginssfdx plugins:install salesforcedx@45.8.0
